@@ -7,3 +7,5 @@ langsmith_eval_example.code-workspace
 .idea/vcs.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/inspectionProfiles/Project_Default.xml
+
+.idea/
