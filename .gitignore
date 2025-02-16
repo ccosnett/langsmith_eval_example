@@ -1,2 +1,9 @@
 
 .env
+langsmith_eval_example.code-workspace
+.idea/langsmith_eval_example.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
